@@ -12,6 +12,8 @@
   git config --global user.email "you@example.com"
   git config --global user.name "Your Name"
   git config --global user.name - вывод текущего имени, тоже самое для email 
+  **Для ГитХаба нужно вводить соответствующий ник (AntonyBoi) в user.name, тогда в истории будет корректно отображаться кто запушил**
+
 
 
 * git status - показывает изменения и список отслеживаемых и не отслеживаемых папок
@@ -44,6 +46,7 @@ Github:
     git branch -M main - переименует главную ветку в main
     git remote add origin https://github.com/XXXXX -добавит ветку???
     git push -u origin main - пушит ветку main в репозиторий, указанный на предидущем шаге
+    git remote set-url origin https://github.com/XXX - смена remote and origin на новый адрес нового репозитория
 
 
 Заметки: 
