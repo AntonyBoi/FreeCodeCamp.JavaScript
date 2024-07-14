@@ -48,6 +48,7 @@ Github:
     git push -u origin main - пушит ветку main в репозиторий, указанный на предидущем шаге
     git remote set-url origin https://github.com/XXX - смена remote and origin на новый адрес нового репозитория
 * git clone https://github.com/XXXXX - клонировать репозиторий на локальную машину
+* git pull - обновить локальный репозиторий
 
 
 Заметки: 
